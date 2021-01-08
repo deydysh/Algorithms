@@ -62,5 +62,4 @@ public class HashMap {
         Set new_set = new Set(key, name);
         return array[hashValue].remove(new_set);
     }
-
 }
